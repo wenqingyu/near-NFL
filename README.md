@@ -1,5 +1,6 @@
 Token Contract in AssemblyScript
 ================================
+Fundamental Labs test token in Near protocol
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/near-examples/token-contract-as)
 
